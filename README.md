@@ -2,6 +2,6 @@
 
 ### How to reach me:
 
-- mail (preferred): [tymoteusz@jozwiak.ml](mailto:tymoteusz@jozwiak.ml) ([PGP](https://jozwiak.ml/key.asc))
+- mail (preferred): [tymoteusz@jozwiak.top](mailto:tymoteusz@jozwiak.top)
 - matrix: `@tymoteuszjozwiak:matrix.org`
 - telegram [@tymoteuszjozwiak](https://t.me/tymoteuszjozwiak)
